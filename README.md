@@ -1,5 +1,5 @@
 # Sentiment Analysis
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mohitmethi1000/sentiment-analysis/blob/main/sentiment_analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mohitmethi1000/sentiment_analysis/blob/main/sentiment_analysis.ipynb)
 
 
 This project performs sentiment analysis on Amazon product reviews using both a rule-based approach (VADER) and a transformer-based deep learning model (RoBERTa). The goal is to analyze the emotional tone of customer reviews and compare different sentiment analysis techniques.

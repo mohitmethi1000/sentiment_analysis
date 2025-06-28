@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mohitmethi1000/sentiment-analysis/blob/main/sentiment_analysis.py)
 
 """sentiment_analysis.ipynb
 
